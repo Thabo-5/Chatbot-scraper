@@ -69,10 +69,10 @@ Able to write basic python code and debug errors
 Able to write logic statements and for-loops
 Able to write functions to code efficiently
 Able to import and use libraries such as Numpy and Pandas
-Paragraph: Participants will cover the whole model building process using python’s Sci-kit Learn library. They will start by pre-processing the data to be ready for modeling and then go through the machine learning algorithms for classifying whether someone will take out a loan or not. Then it will be all about regression algorithms to predict the amount of the loan for those who took out a loan. Secondly, they will look at unsupervised learning algorithms which will be combined with Natural Language processing techniques. Finally, participants will cover three deep learning algorithms - Artificial Neural Nets, Convolutional Neural Nets and Recurrent Neural Nets. They will build models using these algorithms in python’s Keras library - for some of these algorithms the data will be transformed.
+Paragraph: Participants will cover the whole model building process using pythonâ€™s Sci-kit Learn library. They will start by pre-processing the data to be ready for modeling and then go through the machine learning algorithms for classifying whether someone will take out a loan or not. Then it will be all about regression algorithms to predict the amount of the loan for those who took out a loan. Secondly, they will look at unsupervised learning algorithms which will be combined with Natural Language processing techniques. Finally, participants will cover three deep learning algorithms - Artificial Neural Nets, Convolutional Neural Nets and Recurrent Neural Nets. They will build models using these algorithms in pythonâ€™s Keras library - for some of these algorithms the data will be transformed.
 Able to pre-process data ready for modeling purposes
 Understand the concepts of regression, classification and unsupervised learning
-Able to build and optimise models using python’s Sci-kit Learn library
+Able to build and optimise models using pythonâ€™s Sci-kit Learn library
 Able to select the most important features for model building
 Able to process text using NLP techniques
 Able to cluster data using clustering algorithms
@@ -106,10 +106,6 @@ H3: Jaco Jansen van Rensburg
 Paragraph: Jaco is a Lead Data Scientist in the EXPLORE Data Science Academy. He has spent the bulk of his career on scientific and industrial research and holds a PhD in Mechanical Engineering with a focus on mathematical modelling and optimisation.
 H3: Dewald Botha
 Paragraph: Dewald is an actuary and senior data scientist. He was one of the first brave souls to join the EXPLORE ship in 2016. He is managing EXPLORE's learning platform, Athena, and leading the corporate training - 2/3 day bootcamps to upskill employees.
-H3: Jaco Jansen van Rensburg
-Paragraph: Jaco is a Lead Data Scientist in the EXPLORE Data Science Academy. He has spent the bulk of his career on scientific and industrial research and holds a PhD in Mechanical Engineering with a focus on mathematical modelling and optimisation.
-H3: Dewald Botha
-Paragraph: Dewald is an actuary and senior data scientist. He was one of the first brave souls to join the EXPLORE ship in 2016. He is managing EXPLORE's learning platform, Athena, and leading the corporate training - 2/3 day bootcamps to upskill employees.
   Overview
  Curriculum
   Course Introduction 
@@ -126,7 +122,7 @@ Vast amounts of data are being generated every minute.
 The processing speed of our machines is increasing exponentially.
 We now have cloud providers who can store insane amounts of data for a few dollars.
 Powerful open source algorithms that can read, write, translate and see are now available to everyone.
-Paragraph: All of these things above mean that it’s becoming easier and quicker to produce models that can analyze bigger/more complex data and deliver more accurate results – even on a very large scale. By building prediction models a business has a better chance of identifying profitable opportunities – or avoiding unknown risks.
+Paragraph: All of these things above mean that itâ€™s becoming easier and quicker to produce models that can analyze bigger/more complex data and deliver more accurate results â€“ even on a very large scale. By building prediction models a business has a better chance of identifying profitable opportunities â€“ or avoiding unknown risks.
   Overview
  Curriculum
   Course Introduction 
@@ -138,7 +134,7 @@ Paragraph: All of these things above mean that it’s becoming easier and quicker 
  FAQ
 H2: Admissions
 H3: Take the leap, apply now
-Paragraph: We don’t just admit individual students to our program; we curate a community. Our students come from a myriad of backgrounds and previous career paths — insuring that a diversity of thought, experience, and perspective are not only invited, but actively sought.
+Paragraph: We donâ€™t just admit individual students to our program; we curate a community. Our students come from a myriad of backgrounds and previous career paths â€” insuring that a diversity of thought, experience, and perspective are not only invited, but actively sought.
 H3: 1. Apply
 Paragraph: Submit your application on our website and complete a quiz that will challenge your problem solving capabilities.
 H3: 2. Bootcamp
@@ -163,9 +159,9 @@ Paragraph: EXPLORE students get jobs, period. As a graduate of our Data Science 
 H3: Dedicated Career Coaching
 Paragraph: Every student receives a dedicated career coach who will mentor students through an effective job search via resume review, mock interviews, and strategies for building a job opportunity pipeline and getting a foot in the door at top-choice companies.
 H3: Money-Back Guarantee
-Paragraph: EXPLORE students change careers with confidence thanks to our money-back guarantee: you’ll receive a job offer within six months, or we’ll refund your full tuition. (See eligibility terms.)
+Paragraph: EXPLORE students change careers with confidence thanks to our money-back guarantee: youâ€™ll receive a job offer within six months, or weâ€™ll refund your full tuition. (See eligibility terms.)
 H3: A Proven Job Search Framework
-Paragraph: After years of helping students get hired, we’ve developed a proven framework for leading a successful job search. Nearly every single student who has followed these guidelines has been hired.
+Paragraph: After years of helping students get hired, weâ€™ve developed a proven framework for leading a successful job search. Nearly every single student who has followed these guidelines has been hired.
 H2: Course Pricing
 H3: Find the right payment plan for you
 H3: Upfront Payment
@@ -206,7 +202,7 @@ Do I qualify to apply?
 
 
 
-For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+For on campus study there are some qualifying criteria, which can be found in the Tâ€™s and Câ€™s of our Money-Back Promise (on the website). For online study, anyone qualifies!
 
 
 FAQ_2: 
@@ -217,7 +213,7 @@ What is the best course for me?
 
 
 
-This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sureâ€¦ Use our handy tool to find the course for you. Look for the link under â€˜Find your tribeâ€™
 
 
 FAQ_3: 
@@ -294,7 +290,7 @@ Do I qualify to apply?
 
 
 
-For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+For on campus study there are some qualifying criteria, which can be found in the Tâ€™s and Câ€™s of our Money-Back Promise (on the website). For online study, anyone qualifies!
 
 
 FAQ_10: 
@@ -305,7 +301,7 @@ What is the best course for me?
 
 
 
-This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sureâ€¦ Use our handy tool to find the course for you. Look for the link under â€˜Find your tribeâ€™
 
 
 FAQ_11: 
@@ -316,7 +312,7 @@ What qualification will I have at the end?
 
 
 
- We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate. 
+ We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.Â 
 
 
 FAQ_12: 
@@ -360,7 +356,7 @@ Are there any prerequisites for the course?
 
 
 
-No. If you apply for a sponsorship however, there will be some documentation needed. 
+No. If you apply for a sponsorship however, there will be some documentation needed.Â 
 
 
 FAQ_16: 
@@ -382,7 +378,7 @@ Can I visit the Manhattan campus?
 
 
 
-We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times don’t work for you, please email [email protected] to schedule an appointment at an alternative time.
+We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times donâ€™t work for you, please email [emailÂ protected] to schedule an appointment at an alternative time.
 
 
 FAQ_18: 
@@ -393,7 +389,7 @@ Can I apply for financing
 
 
 
-We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times don’t work for you, please email [email protected] to schedule an appointment at an alternative time.
+We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times donâ€™t work for you, please email [emailÂ protected] to schedule an appointment at an alternative time.
 
 
 FAQ_19: 
@@ -404,7 +400,7 @@ Can I chat with someone on the Admissions team?
 
 
 
-We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times don’t work for you, please email [email protected] to schedule an appointment at an alternative time.
+We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times donâ€™t work for you, please email [emailÂ protected] to schedule an appointment at an alternative time.
 
 
 FAQ_20: 
@@ -415,7 +411,7 @@ Do I need a computer?
 
 
 
-We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times don’t work for you, please email [email protected] to schedule an appointment at an alternative time.
+We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times donâ€™t work for you, please email [emailÂ protected] to schedule an appointment at an alternative time.
 
 
 Prices: R60,000
@@ -493,10 +489,10 @@ Able to write basic python code and debug errors
 Able to write logic statements and for-loops
 Able to write functions to code efficiently
 Able to import and use libraries such as Numpy and Pandas
-Paragraph: Participants will cover the whole model building process using python’s Sci-kit Learn library. They will start by pre-processing the data to be ready for modeling and then go through the machine learning algorithms for classifying whether someone will take out a loan or not. Then it will be all about regression algorithms to predict the amount of the loan for those who took out a loan. Secondly, they will look at unsupervised learning algorithms which will be combined with Natural Language processing techniques. Finally, participants will cover three deep learning algorithms - Artificial Neural Nets, Convolutional Neural Nets and Recurrent Neural Nets. They will build models using these algorithms in python’s Keras library - for some of these algorithms the data will be transformed.
+Paragraph: Participants will cover the whole model building process using pythonâ€™s Sci-kit Learn library. They will start by pre-processing the data to be ready for modeling and then go through the machine learning algorithms for classifying whether someone will take out a loan or not. Then it will be all about regression algorithms to predict the amount of the loan for those who took out a loan. Secondly, they will look at unsupervised learning algorithms which will be combined with Natural Language processing techniques. Finally, participants will cover three deep learning algorithms - Artificial Neural Nets, Convolutional Neural Nets and Recurrent Neural Nets. They will build models using these algorithms in pythonâ€™s Keras library - for some of these algorithms the data will be transformed.
 Able to pre-process data ready for modeling purposes
 Understand the concepts of regression, classification and unsupervised learning
-Able to build and optimise models using python’s Sci-kit Learn library
+Able to build and optimise models using pythonâ€™s Sci-kit Learn library
 Able to select the most important features for model building
 Able to process text using NLP techniques
 Able to cluster data using clustering algorithms
@@ -550,7 +546,7 @@ Vast amounts of data are being generated every minute.
 The processing speed of our machines is increasing exponentially.
 We now have cloud providers who can store insane amounts of data for a few dollars.
 Powerful open source algorithms that can read, write, translate and see are now available to everyone.
-Paragraph: All of these things above mean that it’s becoming easier and quicker to produce models that can analyze bigger/more complex data and deliver more accurate results – even on a very large scale. By building prediction models a business has a better chance of identifying profitable opportunities – or avoiding unknown risks.
+Paragraph: All of these things above mean that itâ€™s becoming easier and quicker to produce models that can analyze bigger/more complex data and deliver more accurate results â€“ even on a very large scale. By building prediction models a business has a better chance of identifying profitable opportunities â€“ or avoiding unknown risks.
   Overview
  Curriculum
   Course Introduction 
@@ -562,7 +558,7 @@ Paragraph: All of these things above mean that it’s becoming easier and quicker 
  FAQ
 H2: Admissions
 H3: Take the leap, apply now
-Paragraph: We don’t just admit individual students to our program; we curate a community. Our students come from a myriad of backgrounds and previous career paths — insuring that a diversity of thought, experience, and perspective are not only invited, but actively sought.
+Paragraph: We donâ€™t just admit individual students to our program; we curate a community. Our students come from a myriad of backgrounds and previous career paths â€” insuring that a diversity of thought, experience, and perspective are not only invited, but actively sought.
 H3: 1. Apply
 Paragraph: Submit your application on our website and complete a quiz that will challenge your problem solving capabilities.
 H3: 2. Bootcamp
@@ -587,9 +583,9 @@ Paragraph: EXPLORE students get jobs, period. As a graduate of our Data Science 
 H3: Dedicated Career Coaching
 Paragraph: Every student receives a dedicated career coach who will mentor students through an effective job search via resume review, mock interviews, and strategies for building a job opportunity pipeline and getting a foot in the door at top-choice companies.
 H3: Money-Back Guarantee
-Paragraph: EXPLORE students change careers with confidence thanks to our money-back guarantee: you’ll receive a job offer within six months, or we’ll refund your full tuition. (See eligibility terms.)
+Paragraph: EXPLORE students change careers with confidence thanks to our money-back guarantee: youâ€™ll receive a job offer within six months, or weâ€™ll refund your full tuition. (See eligibility terms.)
 H3: A Proven Job Search Framework
-Paragraph: After years of helping students get hired, we’ve developed a proven framework for leading a successful job search. Nearly every single student who has followed these guidelines has been hired.
+Paragraph: After years of helping students get hired, weâ€™ve developed a proven framework for leading a successful job search. Nearly every single student who has followed these guidelines has been hired.
 H2: Course Pricing
 H3: Find the right payment plan for you
 H3: Upfront Payment
@@ -630,7 +626,7 @@ Do I qualify to apply?
 
 
 
-For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+For on campus study there are some qualifying criteria, which can be found in the Tâ€™s and Câ€™s of our Money-Back Promise (on the website). For online study, anyone qualifies!
 
 
 FAQ_2: 
@@ -641,7 +637,7 @@ What is the best course for me?
 
 
 
-This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sureâ€¦ Use our handy tool to find the course for you. Look for the link under â€˜Find your tribeâ€™
 
 
 FAQ_3: 
@@ -718,7 +714,7 @@ Do I qualify to apply?
 
 
 
-For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+For on campus study there are some qualifying criteria, which can be found in the Tâ€™s and Câ€™s of our Money-Back Promise (on the website). For online study, anyone qualifies!
 
 
 FAQ_10: 
@@ -729,7 +725,7 @@ What is the best course for me?
 
 
 
-This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sureâ€¦ Use our handy tool to find the course for you. Look for the link under â€˜Find your tribeâ€™
 
 
 FAQ_11: 
@@ -740,7 +736,7 @@ What qualification will I have at the end?
 
 
 
-We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate. 
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.Â 
 
 
 FAQ_12: 
@@ -784,7 +780,7 @@ Are there any prerequisites for the course?
 
 
 
-No. If you apply for a sponsorship however, there will be some documentation needed. 
+No. If you apply for a sponsorship however, there will be some documentation needed.Â 
  
 
 FAQ_16: 
@@ -806,7 +802,7 @@ Can I visit the Manhattan campus?
 
 
 
-We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times don’t work for you, please email [email protected] to schedule an appointment at an alternative time.
+We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times donâ€™t work for you, please email [emailÂ protected] to schedule an appointment at an alternative time.
 
 
 FAQ_18: 
@@ -817,7 +813,7 @@ Can I apply for financing
 
 
 
-We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times don’t work for you, please email [email protected] to schedule an appointment at an alternative time.
+We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times donâ€™t work for you, please email [emailÂ protected] to schedule an appointment at an alternative time.
 
 
 FAQ_19: 
@@ -828,7 +824,7 @@ Can I chat with someone on the Admissions team?
 
 
 
-We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times don’t work for you, please email [email protected] to schedule an appointment at an alternative time.
+We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times donâ€™t work for you, please email [emailÂ protected] to schedule an appointment at an alternative time.
 
 
 FAQ_20: 
@@ -839,7 +835,7 @@ Do I need a computer?
 
 
 
-We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times don’t work for you, please email [email protected] to schedule an appointment at an alternative time.
+We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times donâ€™t work for you, please email [emailÂ protected] to schedule an appointment at an alternative time.
 
 
 Prices: R30,000
@@ -915,10 +911,10 @@ Able to write basic python code and debug errors
 Able to write logic statements and for-loops
 Able to write functions to code efficiently
 Able to import and use libraries such as Numpy and Pandas
-Paragraph: Participants will cover the whole model building process using python’s Sci-kit Learn library. They will start by pre-processing the data to be ready for modeling and then go through the machine learning algorithms for classifying whether someone will take out a loan or not. Then it will be all about regression algorithms to predict the amount of the loan for those who took out a loan. Secondly, they will look at unsupervised learning algorithms which will be combined with Natural Language processing techniques. Finally, participants will cover three deep learning algorithms - Artificial Neural Nets, Convolutional Neural Nets and Recurrent Neural Nets. They will build models using these algorithms in python’s Keras library - for some of these algorithms the data will be transformed.
+Paragraph: Participants will cover the whole model building process using pythonâ€™s Sci-kit Learn library. They will start by pre-processing the data to be ready for modeling and then go through the machine learning algorithms for classifying whether someone will take out a loan or not. Then it will be all about regression algorithms to predict the amount of the loan for those who took out a loan. Secondly, they will look at unsupervised learning algorithms which will be combined with Natural Language processing techniques. Finally, participants will cover three deep learning algorithms - Artificial Neural Nets, Convolutional Neural Nets and Recurrent Neural Nets. They will build models using these algorithms in pythonâ€™s Keras library - for some of these algorithms the data will be transformed.
 Able to pre-process data ready for modeling purposes
 Understand the concepts of regression, classification and unsupervised learning
-Able to build and optimise models using python’s Sci-kit Learn library
+Able to build and optimise models using pythonâ€™s Sci-kit Learn library
 Able to select the most important features for model building
 Able to process text using NLP techniques
 Able to cluster data using clustering algorithms
@@ -972,7 +968,7 @@ Vast amounts of data are being generated every minute.
 The processing speed of our machines is increasing exponentially.
 We now have cloud providers who can store insane amounts of data for a few dollars.
 Powerful open source algorithms that can read, write, translate and see are now available to everyone.
-Paragraph: All of these things above mean that it’s becoming easier and quicker to produce models that can analyze bigger/more complex data and deliver more accurate results – even on a very large scale. By building prediction models a business has a better chance of identifying profitable opportunities – or avoiding unknown risks.
+Paragraph: All of these things above mean that itâ€™s becoming easier and quicker to produce models that can analyze bigger/more complex data and deliver more accurate results â€“ even on a very large scale. By building prediction models a business has a better chance of identifying profitable opportunities â€“ or avoiding unknown risks.
   Overview
  Curriculum
   Course Introduction 
@@ -984,7 +980,7 @@ Paragraph: All of these things above mean that it’s becoming easier and quicker 
  FAQ
 H2: Admissions
 H3: Take the leap, apply now
-Paragraph: We don’t just admit individual students to our program; we curate a community. Our students come from a myriad of backgrounds and previous career paths — insuring that a diversity of thought, experience, and perspective are not only invited, but actively sought.
+Paragraph: We donâ€™t just admit individual students to our program; we curate a community. Our students come from a myriad of backgrounds and previous career paths â€” insuring that a diversity of thought, experience, and perspective are not only invited, but actively sought.
 H3: 1. Apply
 Paragraph: Submit your application on our website and complete a quiz that will challenge your problem solving capabilities.
 H3: 2. Bootcamp
@@ -1009,9 +1005,9 @@ Paragraph: EXPLORE students get jobs, period. As a graduate of our Data Science 
 H3: Dedicated Career Coaching
 Paragraph: Every student receives a dedicated career coach who will mentor students through an effective job search via resume review, mock interviews, and strategies for building a job opportunity pipeline and getting a foot in the door at top-choice companies.
 H3: Money-Back Guarantee
-Paragraph: EXPLORE students change careers with confidence thanks to our money-back guarantee: you’ll receive a job offer within six months, or we’ll refund your full tuition. (See eligibility terms.)
+Paragraph: EXPLORE students change careers with confidence thanks to our money-back guarantee: youâ€™ll receive a job offer within six months, or weâ€™ll refund your full tuition. (See eligibility terms.)
 H3: A Proven Job Search Framework
-Paragraph: After years of helping students get hired, we’ve developed a proven framework for leading a successful job search. Nearly every single student who has followed these guidelines has been hired.
+Paragraph: After years of helping students get hired, weâ€™ve developed a proven framework for leading a successful job search. Nearly every single student who has followed these guidelines has been hired.
 H2: Course Pricing
 H3: Find the right payment plan for you
 H3: Upfront Payment
@@ -1052,7 +1048,7 @@ Do I qualify to apply?
 
 
 
-For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+For on campus study there are some qualifying criteria, which can be found in the Tâ€™s and Câ€™s of our Money-Back Promise (on the website). For online study, anyone qualifies!
 
 
 FAQ_2: 
@@ -1063,7 +1059,7 @@ What is the best course for me?
 
 
 
-This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sureâ€¦ Use our handy tool to find the course for you. Look for the link under â€˜Find your tribeâ€™
 
 
 FAQ_3: 
@@ -1140,7 +1136,7 @@ Do I qualify to apply?
 
 
 
-For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+For on campus study there are some qualifying criteria, which can be found in the Tâ€™s and Câ€™s of our Money-Back Promise (on the website). For online study, anyone qualifies!
 
 
 FAQ_10: 
@@ -1151,7 +1147,7 @@ What is the best course for me?
 
 
 
-This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sureâ€¦ Use our handy tool to find the course for you. Look for the link under â€˜Find your tribeâ€™
 
 
 FAQ_11: 
@@ -1162,7 +1158,7 @@ What qualification will I have at the end?
 
 
 
-We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate. 
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.Â 
 
 
 FAQ_12: 
@@ -1206,7 +1202,7 @@ Are there any prerequisites for the course?
 
 
 
-No. If you apply for a sponsorship however, there will be some documentation needed. 
+No. If you apply for a sponsorship however, there will be some documentation needed.Â 
  
 
 FAQ_16: 
@@ -1228,7 +1224,7 @@ Can I visit the Manhattan campus?
 
 
 
-We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times don’t work for you, please email [email protected] to schedule an appointment at an alternative time.
+We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times donâ€™t work for you, please email [emailÂ protected] to schedule an appointment at an alternative time.
 
 
 FAQ_18: 
@@ -1239,7 +1235,7 @@ Can I apply for financing
 
 
 
-We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times don’t work for you, please email [email protected] to schedule an appointment at an alternative time.
+We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times donâ€™t work for you, please email [emailÂ protected] to schedule an appointment at an alternative time.
 
 
 FAQ_19: 
@@ -1250,7 +1246,7 @@ Can I chat with someone on the Admissions team?
 
 
 
-We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times don’t work for you, please email [email protected] to schedule an appointment at an alternative time.
+We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times donâ€™t work for you, please email [emailÂ protected] to schedule an appointment at an alternative time.
 
 
 FAQ_20: 
@@ -1261,7 +1257,7 @@ Do I need a computer?
 
 
 
-We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times don’t work for you, please email [email protected] to schedule an appointment at an alternative time.
+We offer tours and info sessions on a regular basis, and you can register on our community page. If our event times donâ€™t work for you, please email [emailÂ protected] to schedule an appointment at an alternative time.
 
 
 Prices: R30,000
@@ -1328,10 +1324,10 @@ Able to write basic python code and debug errors
 Able to write logic statements and for-loops
 Able to write functions to code efficiently
 Able to import and use libraries such as Numpy and Pandas
-Paragraph: Students will cover the whole model building process using python’s Sci-kit Learn library. They will start by pre-processing the data to be ready for modelling and then go through the machine learning algorithms.
+Paragraph: Students will cover the whole model building process using pythonâ€™s Sci-kit Learn library. They will start by pre-processing the data to be ready for modelling and then go through the machine learning algorithms.
 Able to pre-process data ready for modeling purposes
 Understand the concepts of regression, classification and unsupervised learning
-Able to build models using python’s Sci-kit Learn library
+Able to build models using pythonâ€™s Sci-kit Learn library
 Able to fine tune and optimise models
 Able to select the most important features for model building
 Able to cluster data
@@ -1361,7 +1357,7 @@ Vast amounts of data are being generated every minute.
 The processing speed of our machines is increasing exponentially.
 We now have cloud providers who can store insane amounts of data for a few dollars.
 Powerful open source algorithms that can read, write, translate and see are now available to everyone.
-Paragraph: All of these things above mean that it’s becoming easier and quicker to produce models that can analyze bigger/more complex data and deliver more accurate results – even on a very large scale. By building prediction models a business has a better chance of identifying profitable opportunities – or avoiding unknown risks.
+Paragraph: All of these things above mean that itâ€™s becoming easier and quicker to produce models that can analyze bigger/more complex data and deliver more accurate results â€“ even on a very large scale. By building prediction models a business has a better chance of identifying profitable opportunities â€“ or avoiding unknown risks.
   Overview
  Curriculum
  Instructors
@@ -1405,7 +1401,7 @@ Do I qualify to apply?
 
 
 
-For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+For on campus study there are some qualifying criteria, which can be found in the Tâ€™s and Câ€™s of our Money-Back Promise (on the website). For online study, anyone qualifies!
 
 
 FAQ_2: 
@@ -1416,7 +1412,7 @@ What is the best course for me?
 
 
 
-This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sureâ€¦ Use our handy tool to find the course for you. Look for the link under â€˜Find your tribeâ€™
 
 
 FAQ_3: 
@@ -1493,7 +1489,7 @@ Do I qualify to apply?
 
 
 
-For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+For on campus study there are some qualifying criteria, which can be found in the Tâ€™s and Câ€™s of our Money-Back Promise (on the website). For online study, anyone qualifies!
 
 
 FAQ_10: 
@@ -1504,7 +1500,7 @@ What is the best course for me?
 
 
 
-This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sureâ€¦ Use our handy tool to find the course for you. Look for the link under â€˜Find your tribeâ€™
 
 
 FAQ_11: 
@@ -1515,7 +1511,7 @@ What qualification will I have at the end?
 
 
 
-We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate. 
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.Â 
 
 
 FAQ_12: 
@@ -1570,7 +1566,7 @@ Will it be technical?
 
 
 
-Yes. Even though there is complex maths behind some of the models, we won’t explicitly cover it. We will mainly cover how the algorithms work and how to implement them in Python.
+Yes. Even though there is complex maths behind some of the models, we wonâ€™t explicitly cover it. We will mainly cover how the algorithms work and how to implement them in Python.
 
 
 FAQ_17: 
@@ -1592,7 +1588,7 @@ Will I be graded?
 
 
 
-Yes, however you can’t pass or fail. In order to complete the course you will have to submit a few multiple choice quizzes and model building project.
+Yes, however you canâ€™t pass or fail. In order to complete the course you will have to submit a few multiple choice quizzes and model building project.
 
 
 FAQ_19: 
@@ -1603,7 +1599,7 @@ Which algorithms will we cover in the course?
 
 
 
-Supervised Learning - linear regression, logistic regression, decision trees, random forests, SVM’s, k-nearest neighbours.
+Supervised Learning - linear regression, logistic regression, decision trees, random forests, SVMâ€™s, k-nearest neighbours.
 Unsupervised learning - variance thresholds, PCA, k-means clustering, hierarchical clustering, Gaussian mixture models.
 
 
@@ -1626,7 +1622,7 @@ Do I qualify to apply?
 
 
 
-For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+For on campus study there are some qualifying criteria, which can be found in the Tâ€™s and Câ€™s of our Money-Back Promise (on the website). For online study, anyone qualifies!
 
 
 FAQ_22: 
@@ -1637,7 +1633,7 @@ What is the best course for me?
 
 
 
-This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sureâ€¦ Use our handy tool to find the course for you. Look for the link under â€˜Find your tribeâ€™
 
 
 FAQ_23: 
@@ -1714,7 +1710,7 @@ Do I qualify to apply?
 
 
 
- For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+ For on campus study there are some qualifying criteria, which can be found in the Tâ€™s and Câ€™s of our Money-Back Promise (on the website). For online study, anyone qualifies!
 
 
 FAQ_30: 
@@ -1725,7 +1721,7 @@ What is the best course for me?
 
 
 
-This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sureâ€¦ Use our handy tool to find the course for you. Look for the link under â€˜Find your tribeâ€™
 
 
 FAQ_31: 
@@ -1736,7 +1732,7 @@ What qualification will I have at the end?
 
 
 
-We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate. 
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.Â 
 
 
 FAQ_32: 
@@ -1791,7 +1787,7 @@ Will it be technical?
 
 
 
-Yes. Even though there is complex maths behind some of the models, we won’t explicitly cover it. We will mainly cover how the algorithms work and how to implement them in Python.
+Yes. Even though there is complex maths behind some of the models, we wonâ€™t explicitly cover it. We will mainly cover how the algorithms work and how to implement them in Python.
 
 
 FAQ_37: 
@@ -1813,7 +1809,7 @@ Will I be graded?
 
 
 
-Yes, however you can’t pass or fail. In order to complete the course you will have to submit a few multiple choice quizzes and model building project.
+Yes, however you canâ€™t pass or fail. In order to complete the course you will have to submit a few multiple choice quizzes and model building project.
 
 
 FAQ_39: 
@@ -1824,7 +1820,7 @@ Which algorithms will we cover in the course?
 
 
 
-Supervised Learning - linear regression, logistic regression, decision trees, random forests, SVM’s, k-nearest neighbours.
+Supervised Learning - linear regression, logistic regression, decision trees, random forests, SVMâ€™s, k-nearest neighbours.
 Unsupervised learning - variance thresholds, PCA, k-means clustering, hierarchical clustering, Gaussian mixture models.
 
 
