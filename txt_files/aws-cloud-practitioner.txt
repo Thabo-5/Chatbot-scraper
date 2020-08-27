@@ -105,17 +105,8 @@ H3: No plans available
  FAQ
 H2: FAQ
 H3: You have questions; we have answers
-FAQ_0: 
-
-
-How to apply?
-
-
-
-
-All applications happen via this website:. to apply for this course, click one of the many "Apply Now" Buttons on the page. For on campus study, there are various requirements, for online applications it is simpler.
-
-
+Q: How to apply?
+A: All applications happen via this website:. to apply for this course, click one of the many "Apply Now" Buttons on the page. For on campus study, there are various requirements, for online applications it is simpler.
 FAQ_1: 
 
 
@@ -201,7 +192,7 @@ Do I qualify to apply?
 
 
 
-For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+For on campus study there are some qualifying criteria, which can be found in the Tâ€™s and Câ€™s of our Money-Back Promise (on the website). For online study, anyone qualifies!
 
 
 FAQ_9: 
@@ -212,7 +203,7 @@ Is the best course for me?
 
 
 
-This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy "Find your Course" on our 
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sureâ€¦ Use our handy "Find your Course" on our 
 
 
 FAQ_10: 
@@ -223,7 +214,7 @@ What qualification will I have at the end?
 
 
 
-We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate. 
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.Â 
 
 
 FAQ_11: 
@@ -234,7 +225,7 @@ Will I have enough time?
 
 
 
-Our courses are designed to fit in with the busy lives of family-runners and businesspeople. They require less than 90 mins per day during weekdays, so the weekends can be used to do any additional reading or catching up, as required. 
+Our courses are designed to fit in with the busy lives of family-runners and businesspeople. They require less than 90 mins per day during weekdays, so the weekends can be used to do any additional reading or catching up, as required.Â 
 
 
 FAQ_12: 
@@ -245,7 +236,7 @@ Is there any specific hardware or software required?
 
 
 
-All you need to complete the course is access to a computer and an internet connection. We provide instructions for both Windows and Mac operating systems, where necessary, and there are no hidden charges for additional software or applications. 
+All you need to complete the course is access to a computer and an internet connection. We provide instructions for both Windows and Mac operating systems, where necessary, and there are no hidden charges for additional software or applications.Â 
 
 
 FAQ_13: 
