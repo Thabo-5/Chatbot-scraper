@@ -1,4 +1,5 @@
 https://explore-datascience.net/alumni/hire-explorer
+
 H2: Industry Leaders Hire Explore Grads
 Paragraph: At EXPLORE we find smart people and teach them how to use the latest technologies so that they can solve impossible problems. Our EXPLORERs are brilliant, tenacious and resilient.
 H2: Our Employer Network
@@ -32,19 +33,19 @@ impact of the Explore Data Science Academy on the Telkom Group and on our countr
 H3: Milton
 Paragraph: Attending EDSA was one of the best things I have done for my life. The experience and knowledge
 I have gained is far more valuable than anything I have done in my life. The environment is
-ideal for the type of work associated with it. It’s very interactive and intuitive. I enjoyed
+ideal for the type of work associated with it. Itâ€™s very interactive and intuitive. I enjoyed
 the subtle competitive space we work at, and it brought out the best in me. I am glad and
 grateful for the opportunity to have Explored my untapped abilities.
 H3: Marcia
-Paragraph: Approaching problems with the end in mind – that is, how I’m going to solve
+Paragraph: Approaching problems with the end in mind â€“ that is, how Iâ€™m going to solve
 them has been a key aspect at the Academy. It has provided variety of avenues
-and allowing me to venture into untapped areas with the skills I’ve obtained at
+and allowing me to venture into untapped areas with the skills Iâ€™ve obtained at
 the Academy. I now understand the modern world in a more exciting new way.
 H2: What Makes Our Grads Successful?
 H3: Inclusive Recruitment
 Paragraph: We test for aptitude and attitude. Our application processes are open to anyone and our Payment Plans allow access to students from any background.
 H3: Real-Time Feedback
-Paragraph: Our learning platform updates your learning profile in real-time so you know how you’re doing all the time. Every day you now where to focus and what to do next.
+Paragraph: Our learning platform updates your learning profile in real-time so you know how youâ€™re doing all the time. Every day you now where to focus and what to do next.
 H3: Project Based Sprints
 Paragraph: Learning centres around solving real-world problems in teams with tight deadlines Every few weeks we give you new problems, new team and new deadlines to work towards
 H3: Team-Based Delivery
