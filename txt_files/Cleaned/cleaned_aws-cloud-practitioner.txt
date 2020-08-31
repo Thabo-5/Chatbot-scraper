@@ -47,17 +47,23 @@ Course Pricing
 Find the right payment plan for you
 No plans available
 You have questions; we have answers
+<<<<<<< Updated upstream:txt_files/aws-cloud-practitioner.txt
+A: All applications happen via this website:. to apply for this course, click one of the many "Apply Now" Buttons on the page. For on campus study, there are various requirements, for online applications it is simpler.
+=======
+All applications happen via this website:. to apply for this course, click one of the many "Apply Now" Buttons on the page. For on campus study, there are various requirements, for online applications it is simpler.
+>>>>>>> Stashed changes:txt_files/Raw/aws-cloud-practitioner.txt
 For this course, anyone qualifies! Although AWS recommends should have a basic understanding of IT services.
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of this course, you will receive a completion certificate.
 EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Completing this course will prepare you to take the AWS Cloud Practitioner Certification Examination.
 First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
 Webinars will be scheduled for content briefing, and, we have a really cool student chat platform which gives you access to the student community and course facilitators.
 Our career services team is willing to help and support all students. There is a host of useful material in our online learning platform which is available to all EXPLORE students. One-on-one career services sessions can be arranged if motivated for.
 All applications happen via our website: www.explore-datascience.net. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various requirements, for online applications it is simpler.
-For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
-This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy "Find your Course" on our 
-We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.
-Our courses are designed to fit in with the busy lives of family-runners and businesspeople. They require less than 90 mins per day during weekdays, so the weekends can be used to do any additional reading or catching up, as required.
-All you need to complete the course is access to a computer and an internet connection. We provide instructions for both Windows and Mac operating systems, where necessary, and there are no hidden charges for additional software or applications.
+For on campus study there are some qualifying criteria, which can be found in the Tâ€™s and Câ€™s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sureâ€¦ Use our handy "Find your Course" on our 
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.Â
+Our courses are designed to fit in with the busy lives of family-runners and businesspeople. They require less than 90 mins per day during weekdays, so the weekends can be used to do any additional reading or catching up, as required.Â
+All you need to complete the course is access to a computer and an internet connection. We provide instructions for both Windows and Mac operating systems, where necessary, and there are no hidden charges for additional software or applications.Â
 EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
 First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
 Various AWS services, but none in any practical detail

@@ -63,6 +63,31 @@ EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things.
 First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
 Webinars will be scheduled for content briefing, and, we have a really cool student chat platform which gives you access to the student community and course facilitators.
 EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+All applications happen via our website: www.explore-datascience.net. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various requirements, for online applications it is simpler.
+For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
+You will code using Python in a Jupyter Notebook environment.
+Yes. Even though there is complex maths behind some of the models, we won’t explicitly cover it. We will mainly cover how the algorithms work and how to implement them in Python. You are more than welcome to ask technical questions.
+No, however, python programming and basic machine learning knowledge are recommended.
+Yes, however you can’t pass or fail. In order to complete the course you will have to submit a few multiple choice quizzes and model building project.
+Deep Learning – artificial neural networks, convolutional neural networks, recurrent neural networks
+All applications happen via our website: www.explore-datascience.net. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various requirements, for online applications it is simpler.
+For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
+Webinars will be scheduled for content briefing, and, we have a really cool student chat platform which gives you access to the student community and course facilitators.
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+All applications happen via our website: www.explore-datascience.net. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various requirements, for online applications it is simpler.
+For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
 You will code using Python in a Jupyter Notebook environment.
 Yes. Even though there is complex maths behind some of the models, we won’t explicitly cover it. We will mainly cover how the algorithms work and how to implement them in Python. You are more than welcome to ask technical questions.
 No, however, python programming and basic machine learning knowledge are recommended.

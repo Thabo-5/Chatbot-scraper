@@ -72,6 +72,33 @@ EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things.
 First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
 Webinars will be scheduled for content briefing, and, we have a really cool student chat platform which gives you access to the student community and course facilitators.
 EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+All applications happen via our website: www.explore-datascience.net. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various requirements, for online applications it is simpler.
+For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
+You will use the following tools in the course:
+Python – the programming language for the course
+Google colab – the environment you will write python code in
+You will solve problems like predicting which customers will take out a loan and what customers are saying about banks on social media.
+Yes. There are complex maths behind some of the models, however we will focus on the application of the techniques.
+No. If you are interested in data science and want to know what it is capable of, you should do the course.
+Yes. There will be multiple choice quizzes to test your gained knowledge as well as coding challenges to put your programming to the test.
+All applications happen via our website: www.explore-datascience.net. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various requirements, for online applications it is simpler.
+For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
+Webinars will be scheduled for content briefing, and, we have a really cool student chat platform which gives you access to the student community and course facilitators.
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+All applications happen via our website: www.explore-datascience.net. Select the course and location (on campus or online) which works for you and click Apply Now. For on campus study, there are various requirements, for online applications it is simpler.
+For on campus study there are some qualifying criteria, which can be found in the T’s and C’s of our Money-Back Promise (on the website). For online study, anyone qualifies!
+This depends on what your constraints are - can you study on campus, full time, or do you need the flexibility of online study. On campus is the premium experience, backed up with a Money-Back Promise! Still not sure… Use our handy tool to find the course for you. Look for the link under ‘Find your tribe’
+We are SETA Accredited and our Data Science course is at NQF level 5. Upon completion of our courses, you will receive a completion certificate.
+EXPLORE Data Science Academy graduates are Amazing People, doing Amazing Things. Our Alumni are highly sought after and 97% of them have found industry related employment within 6 months of graduating.
+First stop is to check your Spam or Junk mail folders. Sometimes the internet gremlins hide our emails there. Alternatively, log back into your student profile and check that you completed all the steps for application. Look for the sign-in button on the top right of the website page.
 You will use the following tools in the course:
 Python – the programming language for the course
 Google colab – the environment you will write python code in
